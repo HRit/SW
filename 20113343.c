@@ -1,7 +1,4 @@
-/*
- Student ID : 20113343
- Name : ÇöÀç¿µ
- */
+
 
 #include <unistd.h>
 #include <sys/types.h>
