@@ -1,4 +1,4 @@
-
+//¼Ò°ø 3ÇÐ³âÆÀ È±ÆÃ~~!!
 
 #include <unistd.h>
 #include <sys/types.h>
@@ -14,7 +14,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-void display();
+void display(); 
 
 
 int peertcpSocket = -1;	// peer socket
