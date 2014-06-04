@@ -195,8 +195,8 @@ int main(int argc, char **argv)
 
 void display()
 {
-	printf("Student ID : 20113343 \n");
-	printf("Name : Hyun Jae Young \n");
+	printf("Student ID : 20113269 \n");
+	printf("Name : Kim Jeong Hwan \n");
 }
 
 
